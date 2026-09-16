@@ -64,11 +64,11 @@ ITECOL1,El Playón,El Salvador,SV,Centroamerica,13.45,-88.75,29,2024-06-15
 MSLP,El Salvador Intl,El Salvador,SV,Centroamerica,13.438,-89.056,23,2021-05-07
 IILOPA2,Ilopango,El Salvador,SV,Centroamerica,13.7,-89.11,620,2024-01-20
 MSSS,Ilopango Arpt,El Salvador,SV,Centroamerica,13.704,-89.123,609,2021-05-10
-42ba11,Juayúa,El Salvador,SV,Centroamerica,13.86,-89.72,"1,137",2024-06-15
+42ba11,Juayúa,El Salvador,SV,Centroamerica,13.86,-89.72,1137,2024-06-15
 MSLU,La Union,El Salvador,SV,Centroamerica,13.332,-87.882,94,2021-05-10
 ISANTA850,Lago Coatepeque,El Salvador,SV,Centroamerica,13.85,-89.57,765,2024-01-20
 IACAJU6,Los Cóbanos,El Salvador,SV,Centroamerica,13.53,-89.81,7,2024-06-15
-1bb768,Miramundo,El Salvador,SV,Centroamerica,14.34,-89.12,"2,218",2025-11-03
+1bb768,Miramundo,El Salvador,SV,Centroamerica,14.34,-89.12,2218,2025-11-03
 IOSICA1,Osicala,El Salvador,SV,Centroamerica,13.81,-88.17,628,2024-06-15
 ISANMI160,San Miguel,El Salvador,SV,Centroamerica,13.47,-88.18,123,2025-04-20
 MSSM,San Miguel/Papalon A,El Salvador,SV,Centroamerica,13.45,-88.123,94,2021-05-10
@@ -84,76 +84,76 @@ ee02e25,"Santa Tecla, Cecilia",El Salvador,SV,Centroamerica,13.679,-89.285,938,2
 b234b2,Usulutlan,El Salvador,SV,Centroamerica,13.44366,-88.46419,677,2023-02-22
 90109a,Zacatecoluca LT,El Salvador,SV,Centroamerica,13.41,-88.88,11,2025-07-05
 669cb58,"Zaragoza, SV",El Salvador,SV,Centroamerica,13.6,-89.3,590,2024-01-21
-MGQZAAZ,AAZ Xela,Guatemala,GT,Centroamerica,14.86,-91.51,"2,372",2023-04-24
-79291,ASECAJ,Guatemala,GT,Centroamerica,15.35833,-90.22693,"1,973",2023-08-31
-9b540e,AV Campat,Guatemala,GT,Centroamerica,15.38,-90.3,"1,495",2022-03-26
+MGQZAAZ,AAZ Xela,Guatemala,GT,Centroamerica,14.86,-91.51,2372,2023-04-24
+79291,ASECAJ,Guatemala,GT,Centroamerica,15.35833,-90.22693,1973,2023-08-31
+9b540e,AV Campat,Guatemala,GT,Centroamerica,15.38,-90.3,1495,2022-03-26
 V-AGREX,Agrex,Guatemala,GT,Centroamerica,16.77,-90.56,136,2023-08-18
-FF4778,"Aldea Agua Escondida, S.A. Palopó",Guatemala,GT,Centroamerica,14.66347,-91.10858,"1,933",2026-06-02
+FF4778,"Aldea Agua Escondida, S.A. Palopó",Guatemala,GT,Centroamerica,14.66347,-91.10858,1933,2026-06-02
 IGUALN4,Aldea Bethel,Guatemala,GT,Centroamerica,15.02,-89.22,890,2025-07-05
-59C320,"Aldea Villa Flores, San Pedro Necta, HT",Guatemala,GT,Centroamerica,15.552,-91.749,"1,773",2024-10-15
-1794ac3,Alux,Guatemala,GT,Centroamerica,14.61,-90.634,"2,163",2023-05-14
-ab7f3bc,Amatitlán,Guatemala,GT,Centroamerica,14.49,-90.61,"1,188",2023-09-03
+59C320,"Aldea Villa Flores, San Pedro Necta, HT",Guatemala,GT,Centroamerica,15.552,-91.749,1773,2024-10-15
+1794ac3,Alux,Guatemala,GT,Centroamerica,14.61,-90.634,2163,2023-05-14
+ab7f3bc,Amatitlán,Guatemala,GT,Centroamerica,14.49,-90.61,1188,2023-09-03
 ICONCE167,Anguatú,Guatemala,GT,Centroamerica,14.4,-89.5,571,2026-06-19
-TP166056,Antigua Becerra,Guatemala,GT,Centroamerica,14.544,-90.748,"1,521",2025-02-08
-96231,Antigua SPLH BV,Guatemala,GT,Centroamerica,14.52932,-90.74739,"1,521",2023-09-09
-665490,Argueta Totonicapán,Guatemala,GT,Centroamerica,14.826,-91.22,"2,396",2024-02-13
+TP166056,Antigua Becerra,Guatemala,GT,Centroamerica,14.544,-90.748,1521,2025-02-08
+96231,Antigua SPLH BV,Guatemala,GT,Centroamerica,14.52932,-90.74739,1521,2023-09-09
+665490,Argueta Totonicapán,Guatemala,GT,Centroamerica,14.826,-91.22,2396,2024-02-13
 ISANTA1207,Asunción Mita,Guatemala,GT,Centroamerica,14.29,-89.73,488,2023-12-27
 9dd5cf,Ayutla,Guatemala,GT,Centroamerica,14.65,-92.12,26,2025-05-11
-AC-LF,Barberena,Guatemala,GT,Centroamerica,14.3,-90.36,"1,221",2023-12-27
-de184a,Barcenas,Guatemala,GT,Centroamerica,14.518,-90.621,"1,448",2023-09-03
-bacd257,Barcenas E,Guatemala,GT,Centroamerica,14.537,-90.6111,"1,432",2023-09-03
-E-HTBA,Barillas,Guatemala,GT,Centroamerica,15.80387,-91.31811,"1,459",2025-03-25
-967170,Barillas,Guatemala,GT,Centroamerica,15.8,-91.32,"1,466",2022-03-26
+AC-LF,Barberena,Guatemala,GT,Centroamerica,14.3,-90.36,1221,2023-12-27
+de184a,Barcenas,Guatemala,GT,Centroamerica,14.518,-90.621,1448,2023-09-03
+bacd257,Barcenas E,Guatemala,GT,Centroamerica,14.537,-90.6111,1432,2023-09-03
+E-HTBA,Barillas,Guatemala,GT,Centroamerica,15.80387,-91.31811,1459,2025-03-25
+967170,Barillas,Guatemala,GT,Centroamerica,15.8,-91.32,1466,2022-03-26
 1c8194eFA,"Buenos Airez, IZ",Guatemala,GT,Centroamerica,15.57989,-88.92174,66,2023-12-27
-eee1b0,CES Km 19.9,Guatemala,GT,Centroamerica,14.52,-90.47402,"1,889",2023-05-14
-dc0765,CES km. 10.5,Guatemala,GT,Centroamerica,14.58,-90.472,"1,789",2023-05-14
-GTGTMXSCB1,CSC Mixco AM,Guatemala,GT,Centroamerica,14.59949,-90.57668,"1,515",2024-05-05
+eee1b0,CES Km 19.9,Guatemala,GT,Centroamerica,14.52,-90.47402,1889,2023-05-14
+dc0765,CES km. 10.5,Guatemala,GT,Centroamerica,14.58,-90.472,1789,2023-05-14
+GTGTMXSCB1,CSC Mixco AM,Guatemala,GT,Centroamerica,14.59949,-90.57668,1515,2024-05-05
 FF1368,CUN El Progreso,Guatemala,GT,Centroamerica,14.8603,-90.078,503,2025-10-27
 977da0,Cadenas,Guatemala,GT,Centroamerica,15.94,-89.24,7,2022-03-26
 d30da5,Cahabón Ox,Guatemala,GT,Centroamerica,15.6,-89.7,411,2025-02-05
-566811,Camotán Alto,Guatemala,GT,Centroamerica,14.9,-89.2,"1,112",2026-06-19
+566811,Camotán Alto,Guatemala,GT,Centroamerica,14.9,-89.2,1112,2026-06-19
 f812b0,Camotán Bajo,Guatemala,GT,Centroamerica,14.86,-89.3,575,2026-06-19
 ISANLU69,Cancuen Petén,Guatemala,GT,Centroamerica,16.07,-90.07,128,2023-12-27
 ICAMOT2,Caparjá,Guatemala,GT,Centroamerica,14.85,-89.24,592,2026-06-19
-79cbdf7,Cayalá,Guatemala,GT,Centroamerica,14.604,-90.4829,"1,528",2024-12-04
-E-GT09,Cd. Guatemala,Guatemala,GT,Centroamerica,14.60126,-90.51892,"1,505",2025-03-25
-INT-CGT12,Cd. Guatemala Sur,Guatemala,GT,Centroamerica,14.59298,-90.55109,"1,491",2026-06-12
-40fcfa,Cd. Guatemala Z1,Guatemala,GT,Centroamerica,14.637,-90.513,"1,503",2024-01-27
-ICONCE52,Cencepcion Las Minas,Guatemala,GT,Centroamerica,14.46,-89.41,"1,336",2024-03-21
+79cbdf7,Cayalá,Guatemala,GT,Centroamerica,14.604,-90.4829,1528,2024-12-04
+E-GT09,Cd. Guatemala,Guatemala,GT,Centroamerica,14.60126,-90.51892,1505,2025-03-25
+INT-CGT12,Cd. Guatemala Sur,Guatemala,GT,Centroamerica,14.59298,-90.55109,1491,2026-06-12
+40fcfa,Cd. Guatemala Z1,Guatemala,GT,Centroamerica,14.637,-90.513,1503,2024-01-27
+ICONCE52,Cencepcion Las Minas,Guatemala,GT,Centroamerica,14.46,-89.41,1336,2024-03-21
 1185df,Chahal,Guatemala,GT,Centroamerica,15.787,-89.6,177,2024-02-22
-6d00dc,Chamelco,Guatemala,GT,Centroamerica,15.42,-90.33,"1,380",2023-09-11
+6d00dc,Chamelco,Guatemala,GT,Centroamerica,15.42,-90.33,1380,2023-09-11
 1982ca,Champerico,Guatemala,GT,Centroamerica,14.29,-91.91,6,2023-12-27
 6fa13bfb,Champona,Guatemala,GT,Centroamerica,15.547,-88.56,25,2024-06-07
-81891,Chiabal - Cuchumatanes,Guatemala,GT,Centroamerica,15.46,-91.51,"3,286",2025-05-14
-59C2A4,"Chichimes, San Pedro Necta, HT",Guatemala,GT,Centroamerica,15.51537,-91.87262,"1,681",2024-10-05
+81891,Chiabal - Cuchumatanes,Guatemala,GT,Centroamerica,15.46,-91.51,3286,2025-05-14
+59C2A4,"Chichimes, San Pedro Necta, HT",Guatemala,GT,Centroamerica,15.51537,-91.87262,1681,2024-10-05
 d90502,Chiquimula,Guatemala,GT,Centroamerica,14.79515,-89.54824,431,2022-07-11
 365b2e,Chisec AV,Guatemala,GT,Centroamerica,15.8,-90.3,284,2025-09-27
 E-QZCO,Coatepeque,Guatemala,GT,Centroamerica,14.69483,-91.87996,418,2025-03-25
-MGCB,Coban Arpt,Guatemala,GT,Centroamerica,15.47,-90.406,"1,322",2021-05-10
-E-AVCB,Cobán,Guatemala,GT,Centroamerica,15.47104,-90.38787,"1,304",2025-03-25
-c09f47,Cobán AV,Guatemala,GT,Centroamerica,15.47191,-90.37383,"1,317",2023-01-15
+MGCB,Coban Arpt,Guatemala,GT,Centroamerica,15.47,-90.406,1322,2021-05-10
+E-AVCB,Cobán,Guatemala,GT,Centroamerica,15.47104,-90.38787,1304,2025-03-25
+c09f47,Cobán AV,Guatemala,GT,Centroamerica,15.47191,-90.37383,1317,2023-01-15
 IPATUL4,Cocales,Guatemala,GT,Centroamerica,14.36,-91.21,180,2026-02-20
-a0d993,Cojobal,Guatemala,GT,Centroamerica,14.65,-90.97,"2,137",2024-12-21
-ITECPN5,Colfax Chuatzunuj Tecpán,Guatemala,GT,Centroamerica,14.73499,-91.0393,"2,225",2022-06-21
-94566,Concepción Las Minas,Guatemala,GT,Centroamerica,14.515,-89.40639,"1,450",2022-09-12
-19eb36fa,Cubulco,Guatemala,GT,Centroamerica,15.11,-90.65,"1,095",2024-03-21
-76af1d,Cuilco,Guatemala,GT,Centroamerica,15.41,-91.95,"1,160",2025-04-17
+a0d993,Cojobal,Guatemala,GT,Centroamerica,14.65,-90.97,2137,2024-12-21
+ITECPN5,Colfax Chuatzunuj Tecpán,Guatemala,GT,Centroamerica,14.73499,-91.0393,2225,2022-06-21
+94566,Concepción Las Minas,Guatemala,GT,Centroamerica,14.515,-89.40639,1450,2022-09-12
+19eb36fa,Cubulco,Guatemala,GT,Centroamerica,15.11,-90.65,1095,2024-03-21
+76af1d,Cuilco,Guatemala,GT,Centroamerica,15.41,-91.95,1160,2025-04-17
 234423980,Digital Twin Tikindustrias,Guatemala,GT,Centroamerica,16.42644,-90.34198,134,2024-12-13
 ce3f45,Dolores,Guatemala,GT,Centroamerica,16.52,-89.41,397,2025-03-25
-0a6f6e,Dueñas Sac.,Guatemala,GT,Centroamerica,14.524,-90.797,"1,463",2023-08-05
-625195,El Canchón,Guatemala,GT,Centroamerica,14.53192,-90.47059,"1,892",2024-12-04
-IGUATE56,El Carmen Z 12,Guatemala,GT,Centroamerica,14.59,-90.55,"1,495",2024-09-15
+0a6f6e,Dueñas Sac.,Guatemala,GT,Centroamerica,14.524,-90.797,1463,2023-08-05
+625195,El Canchón,Guatemala,GT,Centroamerica,14.53192,-90.47059,1892,2024-12-04
+IGUATE56,El Carmen Z 12,Guatemala,GT,Centroamerica,14.59,-90.55,1495,2024-09-15
 3db2d35,El Chal,Guatemala,GT,Centroamerica,16.64,-89.65,292,2023-12-27
-0AF818,"El Chorro, La Democracia, HT",Guatemala,GT,Centroamerica,15.6402,-91.85267,"1,077",2025-07-25
-59C2B8,"El Pajal, San Antonio Huista, HT",Guatemala,GT,Centroamerica,15.62418,-91.81172,"1,773",2025-08-06
+0AF818,"El Chorro, La Democracia, HT",Guatemala,GT,Centroamerica,15.6402,-91.85267,1077,2025-07-25
+59C2B8,"El Pajal, San Antonio Huista, HT",Guatemala,GT,Centroamerica,15.62418,-91.81172,1773,2025-08-06
 d0de1c,El Palmar,Guatemala,GT,Centroamerica,14.65,-91.56,865,2025-02-07
-17f0ae,El Relleno VC,Guatemala,GT,Centroamerica,14.464,-90.554,"1,198",2023-09-09
+17f0ae,El Relleno VC,Guatemala,GT,Centroamerica,14.464,-90.554,1198,2023-09-09
 8e59e2e9c,El Semillero RB,Guatemala,GT,Centroamerica,14.1,-91.52,22,2023-12-27
-30f5e9,El Sitio Patzún,Guatemala,GT,Centroamerica,14.64209,-90.957,"2,151",2024-12-21
-6b567a,"El Tablón, Sololá",Guatemala,GT,Centroamerica,14.797,-91.181,"2,375",2024-02-13
-4a7426,El Tejar,Guatemala,GT,Centroamerica,14.64115,-90.77496,"1,784",2023-01-13
-59C4D0,"El Trapichillo, La Libertad HT",Guatemala,GT,Centroamerica,15.5169,-91.84732,"1,206",2025-07-22
-35b250,Encinal,Guatemala,GT,Centroamerica,14.65,-90.612,"1,763",2023-09-03
+30f5e9,El Sitio Patzún,Guatemala,GT,Centroamerica,14.64209,-90.957,2151,2024-12-21
+6b567a,"El Tablón, Sololá",Guatemala,GT,Centroamerica,14.797,-91.181,2375,2024-02-13
+4a7426,El Tejar,Guatemala,GT,Centroamerica,14.64115,-90.77496,1784,2023-01-13
+59C4D0,"El Trapichillo, La Libertad HT",Guatemala,GT,Centroamerica,15.5169,-91.84732,1206,2025-07-22
+35b250,Encinal,Guatemala,GT,Centroamerica,14.65,-90.612,1763,2023-09-03
 62fbd3,Entre Rios,Guatemala,GT,Centroamerica,15.615,-88.461,16,2023-08-05
 5f3cf9,Entre Ríos Hop,Guatemala,GT,Centroamerica,15.67,-88.39,18,2025-02-05
 68f2ca,Escuintla,Guatemala,GT,Centroamerica,14.24,-90.84,159,2022-05-05
@@ -165,15 +165,15 @@ MEP,Escuintla P,Guatemala,GT,Centroamerica,14.28,-90.82,252,2022-09-03
 SAS,Escuintla SA,Guatemala,GT,Centroamerica,14.26825,-90.8247,215,2022-09-03
 e8c8aa,Esquipulas,Guatemala,GT,Centroamerica,14.57,-89.36,950,2022-03-26
 E-CHES,Esquipulas,Guatemala,GT,Centroamerica,14.56195,-89.35112,952,2025-03-25
-IESQUI16,Esquipulas,Guatemala,GT,Centroamerica,14.6,-89.2,"1,014",2026-06-19
+IESQUI16,Esquipulas,Guatemala,GT,Centroamerica,14.6,-89.2,1014,2026-06-19
 MGES,Esquipulas Arpt,Guatemala,GT,Centroamerica,14.568,-89.326,945,2021-05-10
-DT001,Estación DT,Guatemala,GT,Centroamerica,14.465,-90.492,"1,717",2024-02-01
-GTEPSDLM,Estación Sierra de Las Minas,Guatemala,GT,Centroamerica,15.0846,-89.943,"2,569",2024-05-06
+DT001,Estación DT,Guatemala,GT,Centroamerica,14.465,-90.492,1717,2024-02-01
+GTEPSDLM,Estación Sierra de Las Minas,Guatemala,GT,Centroamerica,15.0846,-89.943,2569,2024-05-06
 19e8b0,Estanzuela,Guatemala,GT,Centroamerica,15,-89.58,186,2025-02-07
 f8848,FBA,Guatemala,GT,Centroamerica,14.38,-91.43,101,2024-03-21
 559d2df,Finca AR,Guatemala,GT,Centroamerica,16.06,-90.01,144,2024-01-28
-V-PRM,Finca Agrihita,Guatemala,GT,Centroamerica,14.57954,-90.80545,"1,920",2023-12-27
-V-BRB,Finca El Porvenir,Guatemala,GT,Centroamerica,14.29489,-90.34698,"1,203",2023-12-27
+V-PRM,Finca Agrihita,Guatemala,GT,Centroamerica,14.57954,-90.80545,1920,2023-12-27
+V-BRB,Finca El Porvenir,Guatemala,GT,Centroamerica,14.29489,-90.34698,1203,2023-12-27
 8b0c457,Finca Santa Anita,Guatemala,GT,Centroamerica,14.37,-91.5921,92,2024-11-02
 4e8c12,Flores,Guatemala,GT,Centroamerica,16.92,-89.895,130,2025-02-05
 E-PTFL,Flores,Guatemala,GT,Centroamerica,16.92968,-89.89171,121,2025-03-25
@@ -181,152 +181,152 @@ E-PTFL,Flores,Guatemala,GT,Centroamerica,16.92968,-89.89171,121,2025-03-25
 4f5c67,Fray Bartolome DLC,Guatemala,GT,Centroamerica,15.89,-89.86,147,2022-03-26
 4705,GANORSA,Guatemala,GT,Centroamerica,17.0578,-90.542,160,2025-01-29
 a747dc,Gualán,Guatemala,GT,Centroamerica,15.123,-89.355,156,2023-08-05
-0AF82C,"Guantan, Unión Cantinil, HT",Guatemala,GT,Centroamerica,15.58717,-91.77634,"1,362",2025-08-06
-86d04f,GuardaB,Guatemala,GT,Centroamerica,14.48,-90.5,"1,622",2023-09-03
-MGGT,Guatemala/Aurora Arp,Guatemala,GT,Centroamerica,14.585,-90.526,"1,489",2021-05-07
+0AF82C,"Guantan, Unión Cantinil, HT",Guatemala,GT,Centroamerica,15.58717,-91.77634,1362,2025-08-06
+86d04f,GuardaB,Guatemala,GT,Centroamerica,14.48,-90.5,1622,2023-09-03
+MGGT,Guatemala/Aurora Arp,Guatemala,GT,Centroamerica,14.585,-90.526,1489,2021-05-07
 V-HER,Hacienda El Rosario,Guatemala,GT,Centroamerica,16.27,-89.7,301,2024-04-18
-16efa44774,Huehue MG,Guatemala,GT,Centroamerica,15.35,-91.45,"1,979",2023-11-17
-E-HTHT,Huehuetenango,Guatemala,GT,Centroamerica,15.32032,-91.4817,"1,884",2025-03-25
-MGHT,Huehuetenango Arpt,Guatemala,GT,Centroamerica,15.317,-91.503,"1,871",2021-05-07
+16efa44774,Huehue MG,Guatemala,GT,Centroamerica,15.35,-91.45,1979,2023-11-17
+E-HTHT,Huehuetenango,Guatemala,GT,Centroamerica,15.32032,-91.4817,1884,2025-03-25
+MGHT,Huehuetenango Arpt,Guatemala,GT,Centroamerica,15.317,-91.503,1871,2021-05-07
 831b05,ITZAE San Jose,Guatemala,GT,Centroamerica,16.98,-89.9,105,2022-03-26
-7a9cfc9,Ilotenango,Guatemala,GT,Centroamerica,15.05,-91.23,"1,944",2023-12-27
+7a9cfc9,Ilotenango,Guatemala,GT,Centroamerica,15.05,-91.23,1944,2023-12-27
 MT-234424202,Ind. San Antonio,Guatemala,GT,Centroamerica,14.41332,-91.83377,53,2024-11-02
 4eb2fc2,Ixbolay,Guatemala,GT,Centroamerica,15.93,-90.55,145,2024-06-07
-IX,Ixchiguan,Guatemala,GT,Centroamerica,15.164,-91.93,"3,189",2022-09-03
+IX,Ixchiguan,Guatemala,GT,Centroamerica,15.164,-91.93,3189,2022-09-03
 E-QCIX,Ixcán P.G.,Guatemala,GT,Centroamerica,15.98855,-90.77926,193,2025-03-25
-20210,Ixtahuacan,Guatemala,GT,Centroamerica,15.274,-91.737,"2,053",2023-09-09
-84515,Jacaltenango,Guatemala,GT,Centroamerica,15.665,-91.72,"1,414",2023-09-09
-IJALAP3,Jalapa,Guatemala,GT,Centroamerica,14.4,-90.03,"1,735",2024-03-21
-E-JAJA,Jalapa,Guatemala,GT,Centroamerica,14.6347,-89.98078,"1,364",2025-03-25
-IJALAP2,Jalapa JDB,Guatemala,GT,Centroamerica,14.72,-90,"1,610",2023-11-17
+20210,Ixtahuacan,Guatemala,GT,Centroamerica,15.274,-91.737,2053,2023-09-09
+84515,Jacaltenango,Guatemala,GT,Centroamerica,15.665,-91.72,1414,2023-09-09
+IJALAP3,Jalapa,Guatemala,GT,Centroamerica,14.4,-90.03,1735,2024-03-21
+E-JAJA,Jalapa,Guatemala,GT,Centroamerica,14.6347,-89.98078,1364,2025-03-25
+IJALAP2,Jalapa JDB,Guatemala,GT,Centroamerica,14.72,-90,1610,2023-11-17
 AC-44,Jerez,Guatemala,GT,Centroamerica,14.11,-89.75,913,2023-12-27
 48477,Jicaro,Guatemala,GT,Centroamerica,14.916,-89.898,238,2022-04-07
 IJOCOT8,Jocotán,Guatemala,GT,Centroamerica,14.8,-89.4,576,2026-06-19
 E-JTJT,Jutiapa,Guatemala,GT,Centroamerica,14.28806,-89.89382,900,2025-03-25
 0d82a4,Jutiapa,Guatemala,GT,Centroamerica,14.28,-89.9,896,2022-04-07
-d6ecbf8,La Aurora MGGT AWS,Guatemala,GT,Centroamerica,14.58624,-90.52835,"1,492",2024-01-27
+d6ecbf8,La Aurora MGGT AWS,Guatemala,GT,Centroamerica,14.58624,-90.52835,1492,2024-01-27
 70f4a2af,La Democracia HT,Guatemala,GT,Centroamerica,15.63,-91.78,923,2024-01-17
 78426,La Democracia IM,Guatemala,GT,Centroamerica,14.12511,-90.93569,62,2023-06-14
 V-INMAG,La Democracia V-IM DT,Guatemala,GT,Centroamerica,14.125,-90.936,62,2023-06-30
-768bd9,"La Embaulada, VN",Guatemala,GT,Centroamerica,14.5728,-90.6373,"1,865",2026-08-06
+768bd9,"La Embaulada, VN",Guatemala,GT,Centroamerica,14.5728,-90.6373,1865,2026-08-06
 89d820,La Ensenada IZ,Guatemala,GT,Centroamerica,15.6,-89.2,215,2025-09-27
-LEXELA51,La Esperanza,Guatemala,GT,Centroamerica,14.858,-91.59,"2,501",2024-09-12
+LEXELA51,La Esperanza,Guatemala,GT,Centroamerica,14.858,-91.59,2501,2024-09-12
 10398,La Gomera MA,Guatemala,GT,Centroamerica,14.08572,-91.0243,37,2023-07-14
 f04a88,La Libertad,Guatemala,GT,Centroamerica,16.80262,-90.60582,129,2023-05-18
 3fc7e4,La Libertad,Guatemala,GT,Centroamerica,16.788,-90.117,185,2023-08-05
 -LLPTN,La Libertad Norte (V),Guatemala,GT,Centroamerica,17.08565,-90.48479,214,2023-08-06
 -LLPTS,La Libertad Sur (V),Guatemala,GT,Centroamerica,17.0076,-90.53624,139,2023-08-06
 54df0d,La Noria,Guatemala,GT,Centroamerica,14.12,-91.37,28,2024-03-21
-ICHAJU2,La Perla,Guatemala,GT,Centroamerica,15.62,-91.11,"1,149",2023-11-17
-EMGM250601,La Posada de Don Mariano,Guatemala,GT,Centroamerica,14.64415,-90.86984,"2,050",2025-06-02
-IACATE8,"La Soledad, Acatenango",Guatemala,GT,Centroamerica,14.54,-90.89,"2,273",2024-02-13
+ICHAJU2,La Perla,Guatemala,GT,Centroamerica,15.62,-91.11,1149,2023-11-17
+EMGM250601,La Posada de Don Mariano,Guatemala,GT,Centroamerica,14.64415,-90.86984,2050,2025-06-02
+IACATE8,"La Soledad, Acatenango",Guatemala,GT,Centroamerica,14.54,-90.89,2273,2024-02-13
 ILASCR5,Las Cruces,Guatemala,GT,Centroamerica,16.68,-90.42,130,2023-12-27
 3726f3,"Las Cruces, PT",Guatemala,GT,Centroamerica,16.66,-90.3,129,2025-09-27
 6d078b,Likin,Guatemala,GT,Centroamerica,13.93,-90.76,15,2022-05-05
 950a06,Los Angeles San Luis,Guatemala,GT,Centroamerica,15.97,-89.23,21,2025-09-27
 75625a,MGMM AWS,Guatemala,GT,Centroamerica,16.9,-89.85,143,2025-02-05
-TP45608,MM Zona 12 46c,Guatemala,GT,Centroamerica,14.575,-90.564,"1,461",2025-02-08
-95506,MTA - El Obispo,Guatemala,GT,Centroamerica,14.52,-89.41,"1,199",2022-08-08
+TP45608,MM Zona 12 46c,Guatemala,GT,Centroamerica,14.575,-90.564,1461,2025-02-08
+95506,MTA - El Obispo,Guatemala,GT,Centroamerica,14.52,-89.41,1199,2022-08-08
 96355,MTA - El Rincón,Guatemala,GT,Centroamerica,14.69,-89.62,973,2022-08-08
 92917,"MTA - Plan de Guineal, Tontoles",Guatemala,GT,Centroamerica,14.76,-89.27,985,2022-08-08
 93220,MTA - Plan de Jocote,Guatemala,GT,Centroamerica,14.8559,-89.5851,931,2022-06-17
-96223,MTA - Rodeito,Guatemala,GT,Centroamerica,14.75,-89.32,"1,285",2022-08-08
+96223,MTA - Rodeito,Guatemala,GT,Centroamerica,14.75,-89.32,1285,2022-08-08
 93964,MTA - Tansha,Guatemala,GT,Centroamerica,14.78,-89.24,687,2022-08-08
 f55b86,MTA- Camotán (Municipalidad),Guatemala,GT,Centroamerica,14.82105,-89.36984,459,2022-07-11
 1fb015,MTA- Concepción Las Minas (Municipalidad,Guatemala,GT,Centroamerica,14.52102,-89.45612,755,2022-07-11
 fd4745,MTA- Ipala (Municipalidad),Guatemala,GT,Centroamerica,14.6199,-89.62459,815,2022-07-11
 JO,MTA- Jocotán (Municipalidad),Guatemala,GT,Centroamerica,14.82146,-89.3902,458,2022-07-11
-fda854,MTA- Olopa (Municipalidad),Guatemala,GT,Centroamerica,14.69246,-89.34904,"1,294",2022-07-11
+fda854,MTA- Olopa (Municipalidad),Guatemala,GT,Centroamerica,14.69246,-89.34904,1294,2022-07-11
 c2b138,MTA- Quezaltepeque (ASORECH),Guatemala,GT,Centroamerica,14.6375,-89.43874,693,2022-07-11
 c2b152,MTA- San Jacinto (Municipalidad),Guatemala,GT,Centroamerica,14.67687,-89.50305,489,2022-07-11
 45f2a0,MTA- San José La Arada (Municipalidad),Guatemala,GT,Centroamerica,14.72279,-89.58544,420,2022-07-11
 sje,MTA- San Juan Ermita (Municipalidad),Guatemala,GT,Centroamerica,14.76409,-89.43073,578,2022-07-11
 b5bd79,MTA-Esquipulas (Municipalidad),Guatemala,GT,Centroamerica,14.57004,-89.3558,949,2022-07-11
-IMATAQ1,Mataquescuintla,Guatemala,GT,Centroamerica,14.53,-90.19,"1,598",2024-10-07
+IMATAQ1,Mataquescuintla,Guatemala,GT,Centroamerica,14.53,-90.19,1598,2024-10-07
 V-MAZATE,Mazatenango,Guatemala,GT,Centroamerica,14.55983,-91.51134,492,2023-07-22
 ad519,Mazatenango VV,Guatemala,GT,Centroamerica,14.56,-91.51,481,2022-03-26
 013a2,Melchor de Mencos,Guatemala,GT,Centroamerica,17.06,-89.155,116,2023-12-27
-19873,MeteoTech HQ,Guatemala,GT,Centroamerica,14.60031,-90.52142,"1,506",2025-09-26
-4.60E+03,Monte Maria Z12,Guatemala,GT,Centroamerica,14.58,-90.565,"1,470",2024-01-27
-846d8b0cde,Moyuta,Guatemala,GT,Centroamerica,14.04,-90.08,"1,287",2023-12-27
+19873,MeteoTech HQ,Guatemala,GT,Centroamerica,14.60031,-90.52142,1506,2025-09-26
+4.60E+03,Monte Maria Z12,Guatemala,GT,Centroamerica,14.58,-90.565,1470,2024-01-27
+846d8b0cde,Moyuta,Guatemala,GT,Centroamerica,14.04,-90.08,1287,2023-12-27
 MGMM,Mundo Maya Intl,Guatemala,GT,Centroamerica,16.914,-89.866,121,2021-05-07
-ec38c4,Muxbal,Guatemala,GT,Centroamerica,14.552,-90.467,"1,882",2023-09-09
-979cf6,Nahualá,Guatemala,GT,Centroamerica,14.842,-91.318,"2,467",2025-03-25
-609bc8,Nebaj,Guatemala,GT,Centroamerica,15.4,-91.15,"1,905",2024-03-21
-c31595,Niño Perdido,Guatemala,GT,Centroamerica,15.15,-90.18,"1,540",2024-02-22
+ec38c4,Muxbal,Guatemala,GT,Centroamerica,14.552,-90.467,1882,2023-09-09
+979cf6,Nahualá,Guatemala,GT,Centroamerica,14.842,-91.318,2467,2025-03-25
+609bc8,Nebaj,Guatemala,GT,Centroamerica,15.4,-91.15,1905,2024-03-21
+c31595,Niño Perdido,Guatemala,GT,Centroamerica,15.15,-90.18,1540,2024-02-22
 ca1d0df5,Nueva SR,Guatemala,GT,Centroamerica,14.38,-90.29,991,2023-09-26
 853463,Ocos,Guatemala,GT,Centroamerica,14.51,-92.195,8,2022-04-07
 E-SMOC,Ocós,Guatemala,GT,Centroamerica,14.51015,-92.18907,7,2025-03-25
-1ee2b7,Ostuncalco,Guatemala,GT,Centroamerica,14.869,-91.619,"2,503",2022-03-14
-0AF7D0,"Pachabac, San Lucas Toliman",Guatemala,GT,Centroamerica,14.628,-91.143,"1,580",2025-10-24
+1ee2b7,Ostuncalco,Guatemala,GT,Centroamerica,14.869,-91.619,2503,2022-03-14
+0AF7D0,"Pachabac, San Lucas Toliman",Guatemala,GT,Centroamerica,14.628,-91.143,1580,2025-10-24
 PJP,Pajapita,Guatemala,GT,Centroamerica,14.725,-92.04,80,2022-09-03
-54cdebb,Palestina de los Altos,Guatemala,GT,Centroamerica,14.933,-91.694,"2,624",2024-11-13
-0AF824,"Palmira Vieja, La Libertad HT",Guatemala,GT,Centroamerica,15.595,-91.981,"1,588",2025-08-12
-92602,Palín,Guatemala,GT,Centroamerica,14.41,-90.676,"1,172",2023-09-09
-IPALN8,Palín,Guatemala,GT,Centroamerica,14.41,-90.68,"1,173",2026-02-20
-46ab3c,Panajachel,Guatemala,GT,Centroamerica,14.74028,-91.1619,"1,569",2023-08-05
+54cdebb,Palestina de los Altos,Guatemala,GT,Centroamerica,14.933,-91.694,2624,2024-11-13
+0AF824,"Palmira Vieja, La Libertad HT",Guatemala,GT,Centroamerica,15.595,-91.981,1588,2025-08-12
+92602,Palín,Guatemala,GT,Centroamerica,14.41,-90.676,1172,2023-09-09
+IPALN8,Palín,Guatemala,GT,Centroamerica,14.41,-90.68,1173,2026-02-20
+46ab3c,Panajachel,Guatemala,GT,Centroamerica,14.74028,-91.1619,1569,2023-08-05
 IPANZS7,Panzós,Guatemala,GT,Centroamerica,15.32,-89.61,27,2023-11-17
 9f9253,Pasaco,Guatemala,GT,Centroamerica,13.98,-90.21,120,2023-08-05
 PAT,Patulul,Guatemala,GT,Centroamerica,14.42275,-91.1618,315,2022-09-02
-e19ffd,Patzicía,Guatemala,GT,Centroamerica,14.63321,-90.92494,"2,138",2023-01-13
-65f6a,"Patzún, Chimaltenango",Guatemala,GT,Centroamerica,14.683,-91.014,"2,224",2024-02-13
-C4:5B:BE:6D:E1:8A,Piamonte Xela,Guatemala,GT,Centroamerica,14.862,-91.536,"2,385",2022-08-06
+e19ffd,Patzicía,Guatemala,GT,Centroamerica,14.63321,-90.92494,2138,2023-01-13
+65f6a,"Patzún, Chimaltenango",Guatemala,GT,Centroamerica,14.683,-91.014,2224,2024-02-13
+C4:5B:BE:6D:E1:8A,Piamonte Xela,Guatemala,GT,Centroamerica,14.862,-91.536,2385,2022-08-06
 e0d1bb,"Pista, Panzós",Guatemala,GT,Centroamerica,15.363,-89.675,20,2026-08-06
-IPOCHU1,Pochuta,Guatemala,GT,Centroamerica,14.52,-91.07,"1,144",2024-09-20
+IPOCHU1,Pochuta,Guatemala,GT,Centroamerica,14.52,-91.07,1144,2024-09-20
 3a73ed,Polochic - Canarias,Guatemala,GT,Centroamerica,15.305,-89.6968,30,2023-03-06
 4.45E+71,Poptún,Guatemala,GT,Centroamerica,16.32407,-89.4128,519,2025-02-05
 E-PTPO,Poptún,Guatemala,GT,Centroamerica,16.32645,-89.41008,517,2025-03-25
-008b0b,Potrero Carillo,Guatemala,GT,Centroamerica,14.74,-89.94,"1,766",2025-03-25
-IBARBE57,Pueblo Nuevo Viñas,Guatemala,GT,Centroamerica,14.22,-90.44,"1,072",2024-10-07
+008b0b,Potrero Carillo,Guatemala,GT,Centroamerica,14.74,-89.94,1766,2025-03-25
+IBARBE57,Pueblo Nuevo Viñas,Guatemala,GT,Centroamerica,14.22,-90.44,1072,2024-10-07
 E-IZPB,Puerto Barrios,Guatemala,GT,Centroamerica,15.73713,-88.59242,4,2025-03-25
 1.24E+13,Puerto Barrios,Guatemala,GT,Centroamerica,15.69,-88.6,5,2022-07-12
 MGPB,Puerto Barrios Arpt,Guatemala,GT,Centroamerica,15.737,-88.589,6,2021-05-07
 b14686,Puerto Barrios PBR,Guatemala,GT,Centroamerica,15.7339,-88.5958,4,2023-07-14
 e0d6bf,Puerto Quetzal,Guatemala,GT,Centroamerica,13.93,-90.79,4,2025-04-20
 E-ESPQ,Puerto Quetzal,Guatemala,GT,Centroamerica,13.93945,-90.7888,8,2025-03-25
-V-XLABJ,Quetzaltenango,Guatemala,GT,Centroamerica,14.87,-91.52,"2,384",2023-06-30
-MGQZ,Quetzaltenango MGQZ,Guatemala,GT,Centroamerica,14.862,-91.506,"2,373",2021-05-10
-AC-164,Rabinal AC,Guatemala,GT,Centroamerica,15.02,-90.45,"1,339",2023-12-27
+V-XLABJ,Quetzaltenango,Guatemala,GT,Centroamerica,14.87,-91.52,2384,2023-06-30
+MGQZ,Quetzaltenango MGQZ,Guatemala,GT,Centroamerica,14.862,-91.506,2373,2021-05-10
+AC-164,Rabinal AC,Guatemala,GT,Centroamerica,15.02,-90.45,1339,2023-12-27
 MGRT,Retalhuleu Arpt,Guatemala,GT,Centroamerica,14.523,-91.697,205,2021-05-10
-9a5d48,Rio Blanco SM,Guatemala,GT,Centroamerica,15.04,-91.68,"2,587",2025-04-17
+9a5d48,Rio Blanco SM,Guatemala,GT,Centroamerica,15.04,-91.68,2587,2025-04-17
 374882,Rio Dulce,Guatemala,GT,Centroamerica,15.67,-88.98,6,2022-06-14
 1bc94f,Rubelsanto - EPI,Guatemala,GT,Centroamerica,15.99197,-90.44719,144,2022-06-14
 0b0b83,Rubelsanto - Yalchac,Guatemala,GT,Centroamerica,15.99,-90.36,169,2022-03-13
 8.79E+09,SB El Venado,Guatemala,GT,Centroamerica,14.5425,-91.46113,431,2022-08-01
 a5654d,SC Muluá K,Guatemala,GT,Centroamerica,14.566,-91.63,339,2023-08-05
-598115,"SJ Ojetenam, San Marcos",Guatemala,GT,Centroamerica,15.234,-91.973,"3,053",2024-02-13
-ISANJU181,SJ Ostuncalco,Guatemala,GT,Centroamerica,14.871,-91.621,"2,498",2023-11-12
-20160,SJO Sac,Guatemala,GT,Centroamerica,14.728,-90.697,"1,908",2023-09-10
-556b05,SJP,Guatemala,GT,Centroamerica,14.53,-90.38,"1,766",2023-05-14
-71c12,SP Sac,Guatemala,GT,Centroamerica,14.686,-90.642,"2,103",2023-09-03
+598115,"SJ Ojetenam, San Marcos",Guatemala,GT,Centroamerica,15.234,-91.973,3053,2024-02-13
+ISANJU181,SJ Ostuncalco,Guatemala,GT,Centroamerica,14.871,-91.621,2498,2023-11-12
+20160,SJO Sac,Guatemala,GT,Centroamerica,14.728,-90.697,1908,2023-09-10
+556b05,SJP,Guatemala,GT,Centroamerica,14.53,-90.38,1766,2023-05-14
+71c12,SP Sac,Guatemala,GT,Centroamerica,14.686,-90.642,2103,2023-09-03
 5be0d9,Sachichá,Guatemala,GT,Centroamerica,15.59652,-90.39293,652,2025-03-25
 85a71,Salamá,Guatemala,GT,Centroamerica,15.1,-90.32,946,2023-09-11
-943590,Salcajá,Guatemala,GT,Centroamerica,14.9,-91.452,"2,333",2025-04-20
-SALCA637,Salcajá,Guatemala,GT,Centroamerica,14.88,-91.46,"2,331",2024-09-12
-ICHINA52,San Antonios Las Flores,Guatemala,GT,Centroamerica,14.76,-90.5,"1,190",2025-04-17
-ISANBA42,San Bartolomé M.A.,Guatemala,GT,Centroamerica,14.6,-90.67,"2,078",2024-12-21
-IMIXCO9,San Cristobal Mixco,Guatemala,GT,Centroamerica,14.59,-90.59,"1,518",2024-09-15
-b73eef,San Cristobal Toto,Guatemala,GT,Centroamerica,14.92,-91.44,"2,350",2025-02-05
-22262e,San Fco LU,Guatemala,GT,Centroamerica,14.92328,-91.54255,"2,760",2023-08-05
+943590,Salcajá,Guatemala,GT,Centroamerica,14.9,-91.452,2333,2025-04-20
+SALCA637,Salcajá,Guatemala,GT,Centroamerica,14.88,-91.46,2331,2024-09-12
+ICHINA52,San Antonios Las Flores,Guatemala,GT,Centroamerica,14.76,-90.5,1190,2025-04-17
+ISANBA42,San Bartolomé M.A.,Guatemala,GT,Centroamerica,14.6,-90.67,2078,2024-12-21
+IMIXCO9,San Cristobal Mixco,Guatemala,GT,Centroamerica,14.59,-90.59,1518,2024-09-15
+b73eef,San Cristobal Toto,Guatemala,GT,Centroamerica,14.92,-91.44,2350,2025-02-05
+22262e,San Fco LU,Guatemala,GT,Centroamerica,14.92328,-91.54255,2760,2023-08-05
 8a084e,San Fco. Petén,Guatemala,GT,Centroamerica,16.797,-89.93,217,2023-08-05
 dc41e5,San Felipe,Guatemala,GT,Centroamerica,14.625,-91.597,615,2025-02-07
 ed3a92,San Gabriel,Guatemala,GT,Centroamerica,14.51,-91.51,287,2024-09-12
 MGSJ,San Jose Arpt,Guatemala,GT,Centroamerica,13.934,-90.832,4,2021-05-07
-ISANAN88,San Jose Calderas,Guatemala,GT,Centroamerica,14.56,-90.86,"2,308",2024-12-21
-7.23E+06,San José Poaquil,Guatemala,GT,Centroamerica,14.818,-90.9,"1,960",2024-12-21
-d85978,San Lucas Sac,Guatemala,GT,Centroamerica,14.62,-90.65,"2,147",2022-03-26
+ISANAN88,San Jose Calderas,Guatemala,GT,Centroamerica,14.56,-90.86,2308,2024-12-21
+7.23E+06,San José Poaquil,Guatemala,GT,Centroamerica,14.818,-90.9,1960,2024-12-21
+d85978,San Lucas Sac,Guatemala,GT,Centroamerica,14.62,-90.65,2147,2022-03-26
 07c425,San Luis PT,Guatemala,GT,Centroamerica,16.2,-89.44,384,2023-11-17
-a3132b,San Marcos,Guatemala,GT,Centroamerica,14.96,-91.794,"2,376",2023-09-11
-E-SMSM,San Marcos,Guatemala,GT,Centroamerica,14.96676,-91.79177,"2,376",2025-03-25
-ISANMA204,San Martin Jil,Guatemala,GT,Centroamerica,14.83,-90.82,"1,837",2024-10-07
+a3132b,San Marcos,Guatemala,GT,Centroamerica,14.96,-91.794,2376,2023-09-11
+E-SMSM,San Marcos,Guatemala,GT,Centroamerica,14.96676,-91.79177,2376,2025-03-25
+ISANMA204,San Martin Jil,Guatemala,GT,Centroamerica,14.83,-90.82,1837,2024-10-07
 f445c8,San Martin Zap,Guatemala,GT,Centroamerica,14.60503,-91.6082,514,2022-09-02
-4c4420,San Mateo Ixtatan,Guatemala,GT,Centroamerica,15.83,-91.48,"2,540",2022-03-13
-c15d61,San Mateo Ixtatán,Guatemala,GT,Centroamerica,15.829,-91.476,"2,531",2026-02-24
-ISANMI3,San Miguel MM,Guatemala,GT,Centroamerica,15.24,-91.68,"1,893",2023-11-17
+4c4420,San Mateo Ixtatan,Guatemala,GT,Centroamerica,15.83,-91.48,2540,2022-03-13
+c15d61,San Mateo Ixtatán,Guatemala,GT,Centroamerica,15.829,-91.476,2531,2026-02-24
+ISANMI3,San Miguel MM,Guatemala,GT,Centroamerica,15.24,-91.68,1893,2023-11-17
 9b323a,San Pablo SM,Guatemala,GT,Centroamerica,14.93,-92,631,2025-04-17
-E-SASPH,San Pedro Las Huertas,Guatemala,GT,Centroamerica,14.53,-90.73,"1,556",2026-05-02
-a85e7d,San Rafael la Independencia,Guatemala,GT,Centroamerica,15.7,-91.534,"2,541",2024-11-13
-59C360,"San Ramón La Montaña, La Libertad, HT",Guatemala,GT,Centroamerica,15.55439,-91.87995,"1,885",2025-07-23
+E-SASPH,San Pedro Las Huertas,Guatemala,GT,Centroamerica,14.53,-90.73,1556,2026-05-02
+a85e7d,San Rafael la Independencia,Guatemala,GT,Centroamerica,15.7,-91.534,2541,2024-11-13
+59C360,"San Ramón La Montaña, La Libertad, HT",Guatemala,GT,Centroamerica,15.55439,-91.87995,1885,2025-07-23
 6206c,"San Sebastián, RT",Guatemala,GT,Centroamerica,14.562,-91.648,315,2024-02-22
 ISANVI83,San Vicente Pacaya,Guatemala,GT,Centroamerica,14.36,-90.68,880,2024-09-20
 ISANAR12,Sanarate,Guatemala,GT,Centroamerica,14.81,-90.18,864,2025-04-17
@@ -334,63 +334,63 @@ deeec6,Sanarate SM,Guatemala,GT,Centroamerica,14.824,-90.27,961,2023-09-10
 V-SAPT,Santa Ana (V),Guatemala,GT,Centroamerica,16.79413,-89.84926,259,2023-08-06
 893c3c8,Santa Barbara,Guatemala,GT,Centroamerica,14.437,-91.223,439,2024-09-12
 AC-63,Santa Barbara AC,Guatemala,GT,Centroamerica,14.53,-91.24,904,2023-12-27
-ISANTA721,Santa Catarina Mita,Guatemala,GT,Centroamerica,14.42,-89.78,"1,498",2023-12-27
+ISANTA721,Santa Catarina Mita,Guatemala,GT,Centroamerica,14.42,-89.78,1498,2023-12-27
 ISANTA603,Santa Cruz Mulua,Guatemala,GT,Centroamerica,14.54,-91.62,303,2024-11-02
 cee1,Santa Lucia AG,Guatemala,GT,Centroamerica,14.36,-91.08,367,2023-06-10
-901ecf,Santa Lucía La Reforma,Guatemala,GT,Centroamerica,15.1325,-91.24079,"1,875",2025-03-15
-59C530,"Santo Domingo Huicá, La Libertad, HT",Guatemala,GT,Centroamerica,15.53333,-91.86343,"1,491",2025-07-25
+901ecf,Santa Lucía La Reforma,Guatemala,GT,Centroamerica,15.1325,-91.24079,1875,2025-03-15
+59C530,"Santo Domingo Huicá, La Libertad, HT",Guatemala,GT,Centroamerica,15.53333,-91.86343,1491,2025-07-25
 8ed434,Sayaxche Sur,Guatemala,GT,Centroamerica,16.14,-90.045,139,2025-03-15
 84d03c,Senahú,Guatemala,GT,Centroamerica,15.415,-89.822,958,2025-03-15
 4806c3,"Sepalau, Chisec",Guatemala,GT,Centroamerica,15.78,-90.23,332,2026-08-06
-0724ff,Solola,Guatemala,GT,Centroamerica,14.77,-91.18,"2,126",2023-09-11
-d27508,Sto. Tomas MA,Guatemala,GT,Centroamerica,14.56,-90.67,"1,971",2023-09-09
+0724ff,Solola,Guatemala,GT,Centroamerica,14.77,-91.18,2126,2023-09-11
+d27508,Sto. Tomas MA,Guatemala,GT,Centroamerica,14.56,-90.67,1971,2023-09-09
 74d9b2,TGM RX Pto. Quetzal,Guatemala,GT,Centroamerica,13.93,-90.834,6,2023-04-24
-2eeb55,Tajumulco,Guatemala,GT,Centroamerica,15.08,-91.92,"2,120",2023-09-26
+2eeb55,Tajumulco,Guatemala,GT,Centroamerica,15.08,-91.92,2120,2023-09-26
 2c6ca5b3,Taxisco EP,Guatemala,GT,Centroamerica,14.1,-90.51,278,2023-12-27
-f3ffed,Tecpan,Guatemala,GT,Centroamerica,14.783,-90.999,"2,579",2023-01-15
-ITECPN3,Tecpan 90,Guatemala,GT,Centroamerica,14.78,-90.99,"2,435",2024-12-21
-E-CHTE,Tecpán,Guatemala,GT,Centroamerica,14.75913,-90.97839,"2,226",2025-03-25
-b0eed9,Tejutla,Guatemala,GT,Centroamerica,15.122,-91.81,"2,418",2025-04-17
+f3ffed,Tecpan,Guatemala,GT,Centroamerica,14.783,-90.999,2579,2023-01-15
+ITECPN3,Tecpan 90,Guatemala,GT,Centroamerica,14.78,-90.99,2435,2024-12-21
+E-CHTE,Tecpán,Guatemala,GT,Centroamerica,14.75913,-90.97839,2226,2025-03-25
+b0eed9,Tejutla,Guatemala,GT,Centroamerica,15.122,-91.81,2418,2025-04-17
 afab16,Tierra Blanca,Guatemala,GT,Centroamerica,16.121,-90.383,161,2025-04-20
 94574,Tierra Blanca Jocotán,Guatemala,GT,Centroamerica,14.8,-89.39,449,2022-08-08
-3831282,Todos Santos Cuchumatán,Guatemala,GT,Centroamerica,15.51,-91.604,"2,460",2024-11-13
-c53ca5,TotoTG,Guatemala,GT,Centroamerica,14.92,-91.36,"2,480",2022-06-14
-4047,"Tzanjuyú, Sacatepequez",Guatemala,GT,Centroamerica,14.628,-90.788,"1,668",2024-02-13
-b05af9,Uspantán,Guatemala,GT,Centroamerica,15.35,-90.87,"1,842",2023-12-27
-V-GTVC,V-Coppelia,Guatemala,GT,Centroamerica,14.57995,-90.56296,"1,466",2023-06-08
+3831282,Todos Santos Cuchumatán,Guatemala,GT,Centroamerica,15.51,-91.604,2460,2024-11-13
+c53ca5,TotoTG,Guatemala,GT,Centroamerica,14.92,-91.36,2480,2022-06-14
+4047,"Tzanjuyú, Sacatepequez",Guatemala,GT,Centroamerica,14.628,-90.788,1668,2024-02-13
+b05af9,Uspantán,Guatemala,GT,Centroamerica,15.35,-90.87,1842,2023-12-27
+V-GTVC,V-Coppelia,Guatemala,GT,Centroamerica,14.57995,-90.56296,1466,2023-06-08
 V-INPAN,V-Pantaleon,Guatemala,GT,Centroamerica,14.33318,-90.99535,423,2023-06-30
-418482,Villa Canales,Guatemala,GT,Centroamerica,14.481,-90.535,"1,214",2023-09-03
-ab0767,Villa Nueva,Guatemala,GT,Centroamerica,14.54,-90.56,"1,273",2022-06-13
+418482,Villa Canales,Guatemala,GT,Centroamerica,14.481,-90.535,1214,2023-09-03
+ab0767,Villa Nueva,Guatemala,GT,Centroamerica,14.54,-90.56,1273,2022-06-13
 0AF830,Vivamos Mejor U31M,Guatemala,GT,Centroamerica,15.56025,-90.8259,649,2025-03-12
-VP-EMI,Volcán Pacaya (EMI),Guatemala,GT,Centroamerica,14.38181,-90.60194,"2,536",2025-03-09
-VS-EMI,Volcán Santiaguito (EMI),Guatemala,GT,Centroamerica,14.74402,-91.57002,"2,457",2025-03-09
-VF-EMI,Volcán de Fuego (EMI),Guatemala,GT,Centroamerica,14.47448,-90.88055,"3,794",2025-03-09
-XEe319,Xela Centro,Guatemala,GT,Centroamerica,14.834,-91.52,"2,336",2024-09-12
-f78da3,Xela GM,Guatemala,GT,Centroamerica,14.84,-91.5,"2,333",2022-08-06
-07d9ec,Xela Z4,Guatemala,GT,Centroamerica,14.835,-91.496,"2,395",2026-08-06
+VP-EMI,Volcán Pacaya (EMI),Guatemala,GT,Centroamerica,14.38181,-90.60194,2536,2025-03-09
+VS-EMI,Volcán Santiaguito (EMI),Guatemala,GT,Centroamerica,14.74402,-91.57002,2457,2025-03-09
+VF-EMI,Volcán de Fuego (EMI),Guatemala,GT,Centroamerica,14.47448,-90.88055,3794,2025-03-09
+XEe319,Xela Centro,Guatemala,GT,Centroamerica,14.834,-91.52,2336,2024-09-12
+f78da3,Xela GM,Guatemala,GT,Centroamerica,14.84,-91.5,2333,2022-08-06
+07d9ec,Xela Z4,Guatemala,GT,Centroamerica,14.835,-91.496,2395,2026-08-06
 ISANTA936,Yulconob Barillas,Guatemala,GT,Centroamerica,15.77,-91.24,766,2024-03-29
-f9f3eb,Z13,Guatemala,GT,Centroamerica,14.587,-90.533,"1,500",2023-09-03
-5913bb,Z18,Guatemala,GT,Centroamerica,14.667,-90.457,"1,544",2023-05-14
-1e4b3,Z5,Guatemala,GT,Centroamerica,14.624,-90.501,"1,491",2023-09-03
-15eb2,Z6,Guatemala,GT,Centroamerica,14.667,-90.494,"1,470",2023-09-03
+f9f3eb,Z13,Guatemala,GT,Centroamerica,14.587,-90.533,1500,2023-09-03
+5913bb,Z18,Guatemala,GT,Centroamerica,14.667,-90.457,1544,2023-05-14
+1e4b3,Z5,Guatemala,GT,Centroamerica,14.624,-90.501,1491,2023-09-03
+15eb2,Z6,Guatemala,GT,Centroamerica,14.667,-90.494,1470,2023-09-03
 E-ZAZA,Zacapa,Guatemala,GT,Centroamerica,14.96191,-89.54439,178,2025-03-25
 MGZA,Zacapa Arpt,Guatemala,GT,Centroamerica,14.959,-89.538,189,2021-05-10
 85597b,Zacapa RZ,Guatemala,GT,Centroamerica,14.95,-89.53,197,2022-03-14
-79aa258,Zacualpa,Guatemala,GT,Centroamerica,15.03,-90.88,"1,491",2023-11-17
-e19704,Zona 10 20c,Guatemala,GT,Centroamerica,14.58,-90.5,"1,531",2025-11-11
-IGUATE53,Zona 10 Oakland,Guatemala,GT,Centroamerica,14.59828,-90.50798,"1,507",2024-09-15
-IGUATE4,Zona 10 UG,Guatemala,GT,Centroamerica,14.60977,-90.50535,"1,476",2024-09-15
-01ad90fb,Zona 11,Guatemala,GT,Centroamerica,14.624,-90.565,"1,568",2023-02-22
-3.30E+129,Zona 12,Guatemala,GT,Centroamerica,14.58,-90.55428,"1,475",2022-04-07
-IGUATE6,Zona 15 Encinos,Guatemala,GT,Centroamerica,14.62,-90.5,"1,490",2024-09-15
-688623,Zona 16,Guatemala,GT,Centroamerica,14.62,-90.48,"1,483",2022-06-14
-IGUATE37,Zona 5 Vivibien,Guatemala,GT,Centroamerica,14.62,-90.51,"1,498",2024-09-15
-59B438,chaucruz,Guatemala,GT,Centroamerica,14.82039,-91.16051,"2,458",2025-10-10
-9ff024,el Porvenir Sac. VF,Guatemala,GT,Centroamerica,14.433,-90.819,"1,104",2026-02-20
+79aa258,Zacualpa,Guatemala,GT,Centroamerica,15.03,-90.88,1491,2023-11-17
+e19704,Zona 10 20c,Guatemala,GT,Centroamerica,14.58,-90.5,1531,2025-11-11
+IGUATE53,Zona 10 Oakland,Guatemala,GT,Centroamerica,14.59828,-90.50798,1507,2024-09-15
+IGUATE4,Zona 10 UG,Guatemala,GT,Centroamerica,14.60977,-90.50535,1476,2024-09-15
+01ad90fb,Zona 11,Guatemala,GT,Centroamerica,14.624,-90.565,1568,2023-02-22
+3.30E+129,Zona 12,Guatemala,GT,Centroamerica,14.58,-90.55428,1475,2022-04-07
+IGUATE6,Zona 15 Encinos,Guatemala,GT,Centroamerica,14.62,-90.5,1490,2024-09-15
+688623,Zona 16,Guatemala,GT,Centroamerica,14.62,-90.48,1483,2022-06-14
+IGUATE37,Zona 5 Vivibien,Guatemala,GT,Centroamerica,14.62,-90.51,1498,2024-09-15
+59B438,chaucruz,Guatemala,GT,Centroamerica,14.82039,-91.16051,2458,2025-10-10
+9ff024,el Porvenir Sac. VF,Guatemala,GT,Centroamerica,14.433,-90.819,1104,2026-02-20
 ICOPNR1,"Agua Sucia, Copán",Honduras,HN,Centroamerica,15,-89.3,658,2025-07-05
 MHCA,Catacamas Arpt,Honduras,HN,Centroamerica,14.875,-85.775,383,2021-05-07
 1c76ae,"Catatao, Lempira",Honduras,HN,Centroamerica,14.69,-88.6,629,2024-03-29
-7e5419,"Cañadas, Lempira",Honduras,HN,Centroamerica,14.3,-88.41,"1,204",2026-06-19
+7e5419,"Cañadas, Lempira",Honduras,HN,Centroamerica,14.3,-88.41,1204,2026-06-19
 MHCH,Choluteca Arpt,Honduras,HN,Centroamerica,13.318,-87.154,57,2021-05-10
 704411,Chumbagua,Honduras,HN,Centroamerica,15.24,-88.5,217,2026-06-19
 COMAY5,Comayagua,Honduras,HN,Centroamerica,14.47,-87.66,555,2024-03-29
@@ -401,9 +401,9 @@ f082ff,Copán,Honduras,HN,Centroamerica,14.83,-89.15,588,2026-06-19
 MHGS,Gracias Arpt,Honduras,HN,Centroamerica,14.573,-88.596,910,2021-05-10
 5a820b,La Ceiba,Honduras,HN,Centroamerica,15.78147,-86.78706,6,2024-11-15
 MHLC,La Ceiba/Goloson Int,Honduras,HN,Centroamerica,15.737,-86.864,10,2021-05-07
-ILAESP8,La Esperanza,Honduras,HN,Centroamerica,14.3,-88.2,"1,869",2026-06-19
-MHLE,La Esperanza Arpt,Honduras,HN,Centroamerica,14.291,-88.175,"1,672",2021-05-10
-6fc655,"La Esperanza, HN",Honduras,HN,Centroamerica,14.31,-88.17,"1,681",2024-01-21
+ILAESP8,La Esperanza,Honduras,HN,Centroamerica,14.3,-88.2,1869,2026-06-19
+MHLE,La Esperanza Arpt,Honduras,HN,Centroamerica,14.291,-88.175,1672,2021-05-10
+6fc655,"La Esperanza, HN",Honduras,HN,Centroamerica,14.31,-88.17,1681,2024-01-21
 95923bd,La Grecia,Honduras,HN,Centroamerica,13.22,-87.37,9,2024-05-02
 06e699,Limones Cortés,Honduras,HN,Centroamerica,15.5377,-87.8224,18,2025-03-15
 98d09a,"Nacaome, Valle",Honduras,HN,Centroamerica,13.49,-87.5,21,2024-06-15
@@ -419,22 +419,22 @@ IPUERT262,Rus Rus,Honduras,HN,Centroamerica,14.71,-84.45,67,2024-05-02
 3d3b60,"San Isidro, Intibucá",Honduras,HN,Centroamerica,14.6,-88.1,799,2026-06-19
 7e4299,San Lorenzo,Honduras,HN,Centroamerica,13.44491,-87.45291,19,2023-02-22
 MHLM,San Pedro Sula/Moral,Honduras,HN,Centroamerica,15.442,-87.934,26,2021-05-07
-MHSR,Santa Rosa de Copan,Honduras,HN,Centroamerica,14.783,-88.783,"1,084",2021-05-10
+MHSR,Santa Rosa de Copan,Honduras,HN,Centroamerica,14.783,-88.783,1084,2021-05-10
 051356a,Santos G. Roatán,Honduras,HN,Centroamerica,16.394,-86.3241,15,2024-11-15
-cf362f,Siguatepeque CCFF,Honduras,HN,Centroamerica,14.6,-87.84,"1,087",2026-06-19
+cf362f,Siguatepeque CCFF,Honduras,HN,Centroamerica,14.6,-87.84,1087,2026-06-19
 fa1bab5,Talanga,Honduras,HN,Centroamerica,14.417,-87.086,780,2024-05-02
 ITAULA3,Taulabé,Honduras,HN,Centroamerica,14.7,-87.96,562,2026-06-19
 MHTG,Tegucigalpa/Tonconti,Honduras,HN,Centroamerica,14.06,-87.216,994,2021-05-07
 MHTE,Tela Arpt,Honduras,HN,Centroamerica,15.776,-87.473,3,2021-05-10
 ISANTA181,Trujillo,Honduras,HN,Centroamerica,15.9,-86.02,0,2024-05-02
 MHTR,Trujillo Arpt,Honduras,HN,Centroamerica,15.926,-85.939,3,2021-05-10
-ae8c5c,"Yamaranguila, Intibucá",Honduras,HN,Centroamerica,14.28,-88.24,"1,767",2026-06-19
+ae8c5c,"Yamaranguila, Intibucá",Honduras,HN,Centroamerica,14.28,-88.24,1767,2026-06-19
 MHYR,Yoro Arpt,Honduras,HN,Centroamerica,15.127,-87.135,662,2021-05-10
 a6f378e,Apalí,Nicaragua,NI,Centroamerica,13.688,-86.239,675,2024-05-02
 MNBL,Bluefields Arpt,Nicaragua,NI,Centroamerica,11.995,-83.768,11,2021-05-10
 MNCH,Chinandega Arpt,Nicaragua,NI,Centroamerica,12.638,-87.136,68,2021-05-10
 f21221,Cosiguina,Nicaragua,NI,Centroamerica,12.892,-87.523,34,2024-06-15
-MNJG,Jinotega,Nicaragua,NI,Centroamerica,13.141,-86.019,"1,002",2021-05-10
+MNJG,Jinotega,Nicaragua,NI,Centroamerica,13.141,-86.019,1002,2021-05-10
 MNJU,Juigalpa,Nicaragua,NI,Centroamerica,12.1,-85.367,85,2021-05-10
 MNMG,Managua Intl,Nicaragua,NI,Centroamerica,12.141,-86.177,59,2021-05-07
 MNPC,Puerto Cabezas Arpt,Nicaragua,NI,Centroamerica,14.045,-83.388,12,2021-05-10
@@ -448,29 +448,29 @@ MPSM,Scarlett Martinez In,Panama,PA,Centroamerica,8.386,-80.131,34,2021-05-10
 MPTO,Tocumen Intl,Panama,PA,Centroamerica,9.056,-79.391,9,2021-05-07
 SKLC,Apartado/Betencourt,Colombia,CO,Sudamerica norte,7.817,-76.718,13,2021-06-17
 SKUC,Arauca/Perez Arpt,Colombia,CO,Sudamerica norte,7.066,-70.735,128,2021-07-15
-SKAR,Armenia/El Eden Arpt,Colombia,CO,Sudamerica norte,4.455,-75.766,"1,217",2021-05-19
+SKAR,Armenia/El Eden Arpt,Colombia,CO,Sudamerica norte,4.455,-75.766,1217,2021-05-19
 SKEJ,Barrancabermeja/Yang,Colombia,CO,Sudamerica norte,7.026,-73.809,129,2021-07-15
 SKBQ,Barranquilla/Cortiss,Colombia,CO,Sudamerica norte,10.883,-74.78,22,2021-05-07
-SKBO,Bogota/El Dorado Arp,Colombia,CO,Sudamerica norte,4.706,-74.151,"2,549",2021-05-07
-SKBG,Bucaramango/Palonegr,Colombia,CO,Sudamerica norte,7.127,-73.185,"1,186",2021-05-07
+SKBO,Bogota/El Dorado Arp,Colombia,CO,Sudamerica norte,4.706,-74.151,2549,2021-05-07
+SKBG,Bucaramango/Palonegr,Colombia,CO,Sudamerica norte,7.127,-73.185,1186,2021-05-07
 SKCL,Cali/Aragon Arpt,Colombia,CO,Sudamerica norte,3.543,-76.382,962,2021-05-07
 SKCG,Cartagena/Nunez Intl,Colombia,CO,Sudamerica norte,10.447,-75.516,5,2021-05-07
 SKCC,Cucuta/Daza Intl,Colombia,CO,Sudamerica norte,7.93,-72.509,309,2021-05-10
 SKGI,Girardot/Santiago Vi,Colombia,CO,Sudamerica norte,4.276,-74.797,286,2021-07-15
 SKGP,Guapi Arpt,Colombia,CO,Sudamerica norte,2.57,-77.899,6,2021-07-15
 SKIB,Ibague/Perales Arpt,Colombia,CO,Sudamerica norte,4.418,-75.13,904,2021-07-15
-SKIP,Ipiales/San Luis Arp,Colombia,CO,Sudamerica norte,0.858,-77.677,"2,964",2022-02-12
-SKMZ,Manizales/La Nubia A,Colombia,CO,Sudamerica norte,5.03,-75.47,"2,069",2021-07-15
-SKMD,Medellin/Herrera Arp,Colombia,CO,Sudamerica norte,6.221,-75.59,"1,491",2021-05-18
+SKIP,Ipiales/San Luis Arp,Colombia,CO,Sudamerica norte,0.858,-77.677,2964,2022-02-12
+SKMZ,Manizales/La Nubia A,Colombia,CO,Sudamerica norte,5.03,-75.47,2069,2021-07-15
+SKMD,Medellin/Herrera Arp,Colombia,CO,Sudamerica norte,6.221,-75.59,1491,2021-05-18
 SKMR,Monteria/Jeronimo Ar,Colombia,CO,Sudamerica norte,8.826,-75.825,13,2021-07-15
 SKNV,Neiva/Salas Arpt,Colombia,CO,Sudamerica norte,2.949,-75.294,445,2021-07-15
-SKPS,Pasto/Narino Arpt,Colombia,CO,Sudamerica norte,1.394,-77.291,"1,801",2022-02-12
-SKPE,Pereira/Matecana Arp,Colombia,CO,Sudamerica norte,4.814,-75.735,"1,345",2021-05-10
+SKPS,Pasto/Narino Arpt,Colombia,CO,Sudamerica norte,1.394,-77.291,1801,2022-02-12
+SKPE,Pereira/Matecana Arp,Colombia,CO,Sudamerica norte,4.814,-75.735,1345,2021-05-10
 SKPV,Providencia Isl Arpt,Colombia,CO,Sudamerica norte,13.358,-81.358,0,2021-06-09
 SVPA,Puerto Ayacucho/Aram,Colombia,CO,Sudamerica norte,5.622,-67.605,74,2021-05-07
 SKUI,Quibdo/El Carano Arp,Colombia,CO,Sudamerica norte,5.691,-76.644,55,2021-07-15
 SKRH,Riohacha/Padilla Arp,Colombia,CO,Sudamerica norte,11.528,-72.918,14,2021-11-12
-SKRG,Rionegro/Cordova Int,Colombia,CO,Sudamerica norte,6.169,-75.426,"2,131",2021-05-07
+SKRG,Rionegro/Cordova Int,Colombia,CO,Sudamerica norte,6.169,-75.426,2131,2021-05-07
 SKSP,San Andres Isl Arpt,Colombia,CO,Sudamerica norte,12.587,-81.704,2,2021-05-07
 SKSM,Santa Marta/Bolivar,Colombia,CO,Sudamerica norte,11.12,-74.231,4,2021-05-17
 SKSA,Saravena/Los Coloniz,Colombia,CO,Sudamerica norte,6.955,-71.86,208,2021-07-15
